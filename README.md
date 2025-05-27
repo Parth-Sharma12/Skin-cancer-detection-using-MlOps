@@ -23,6 +23,9 @@ This project aims to detect skin cancer from images using a Convolutional Neural
 
 ---
 ![Prediction](Skin-Cancer-Prediction-Django-main/media/assets/Prediction.png)
+![Pipeline](Skin-Cancer-Prediction-Django-main/media/assets/Pipeline.png)
+![Monitoring](Skin-Cancer-Prediction-Django-main/media/assets/Monitoring.png)
+![Deployed pods](Skin-Cancer-Prediction-Django-main/media/assets/Deployment_Monitoring.png)
 ---
 ## 🛠️ Tech Stack
 
