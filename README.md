@@ -22,7 +22,8 @@ This project aims to detect skin cancer from images using a Convolutional Neural
   - **DAGsHub** for data versioning and collaboration.
 
 ---
-
+![Prediction](Skin-Cancer-Prediction-Django-main/media/assets/Prediction.png)
+---
 ## 🛠️ Tech Stack
 
 | Component            | Technology                     |
